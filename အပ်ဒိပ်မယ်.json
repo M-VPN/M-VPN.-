@@ -2,18 +2,88 @@
    "files": [    
 
 {
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-001.ovpn"
+         "name": "HK-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-01.ovpn"
       },
 
 {
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-002.ovpn"
+         "name": "HK-FREE-02",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-02.ovpn"
       },
 
 {
-         "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-003.ovpn"
+         "name": "HK-FREE-03",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-03.ovpn"
+      },
+
+{
+         "name": "HK-FREE-04",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-04.ovpn"
+      },
+
+{
+         "name": "HK-FREE-05",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-05.ovpn"
+      },
+
+{
+         "name": "JP-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-01.ovpn"
+      },
+
+{
+         "name": "JP-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-01.ovpn"
+      },
+
+{
+         "name": "JP-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-01.ovpn"
+      },
+
+{
+         "name": "JP-FREE-02",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-02.ovpn"
+      },
+
+{
+         "name": "JP-FREE-03",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-03.ovpn"
+      },
+
+{
+         "name": "JP-FREE-04",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-04.ovpn"
+      },
+
+{
+         "name": "JP-FREE-05",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-05.ovpn"
+      },
+
+{
+         "name": "SG-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-01.ovpn"
+      },
+
+{
+         "name": "SG-FREE-02",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-02.ovpn"
+      },
+
+{
+         "name": "SG-FREE-03",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-03.ovpn"
+      },
+
+{
+         "name": "SG-FREE-04",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-04.ovpn"
+      },
+
+{
+         "name": "SG-FREE-05",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-05.ovpn"
       },
 
 {
@@ -30,6 +100,31 @@
 {
          "name": "SG-VIP-003",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-003.ovpn"
+      },
+
+{
+         "name": "TH-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-01.ovpn"
+      },
+
+{
+         "name": "TH-FREE-02",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-02.ovpn"
+      },
+
+{
+         "name": "TH-FREE-03",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-03.ovpn"
+      },
+
+{
+         "name": "TH-FREE-04",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-04.ovpn"
+      },
+
+{
+         "name": "TH-FREE-05",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-05.ovpn"
       },
 
 {
@@ -57,14 +152,41 @@
          "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-005.ovpn"
        },
+
 {
          "name": "TH-VIP-006",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-006.ovpn"
        },
 
+
 {
          "name": "TH-VIP-007",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-007.ovpn"
+       },
+
+{
+         "name": "US-FREE-01",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-01.ovpn"
+       },
+
+{
+         "name": "US-FREE-02",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-02.ovpn"
+       },
+
+{
+         "name": "US-FREE-03",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-03.ovpn"
+       },
+
+{
+         "name": "US-FREE-04",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-04.ovpn"
+       },
+
+{
+         "name": "US-FREE-05",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-05.ovpn"
        }
 
 
