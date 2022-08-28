@@ -57,10 +57,14 @@
          "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-005.ovpn"
        },
-
 {
          "name": "TH-VIP-006",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-006.ovpn"
+       },
+
+{
+         "name": "TH-VIP-007",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-007.ovpn"
        }
 
 
