@@ -29,12 +29,12 @@
 {
          "name": "JP-FREE-001",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-01.ovpn"
-      },
+    },
 
 {
          "name": "JP-FREE-002",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/JP-FREE-02.ovpn"
-      },
+ },
 
 {
          "name": "JP-FREE-003",
@@ -99,43 +99,6 @@
          "name": "SG-FREE-009",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-009.ovpn"
       },
-
-
-{
-         "name": "SG-FREE-010",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-010.ovpn"
-      },
-
-
-{
-         "name": "SG-FREE-011",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-011.ovpn"
-      },
-
-
-{
-         "name": "SG-FREE-012",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-012.ovpn"
-      },
-
-
-{
-         "name": "SG-FREE-013",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-013.ovpn"
-      },
-
-
-{
-         "name": "SG-FREE-014",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-014.ovpn"
-      },
-
-
-{
-         "name": "SG-FREE-015",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-015.ovpn"
-      },
-
 
 {
          "name": "TH-FREE-01",
@@ -252,45 +215,15 @@
 {
          "name": "US-FREE-010",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-010.ovpn"
-       },
-
-
-{
-         "name": "US-FREE-011",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-011.ovpn"
-       },
-
-
-{
-         "name": "US-FREE-012",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-012.ovpn"
-       },
-
-
-{
-         "name": "US-FREE-013",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-013.ovpn"
-       },
-
-
-{
-         "name": "US-FREE-014",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-014.ovpn"
-       },
-
-{
-         "name": "US-FREE-015",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-015.ovpn"
        }
 
-
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:3\n•🇹🇭𝐓𝐇 𝐅𝐫𝐞𝐞 5ဖိုင်
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:2\n•🇹🇭𝐓𝐇 𝐅𝐫𝐞𝐞 5ဖိုင်
 •🇭🇰𝐇𝐊 𝐅𝐫𝐞𝐞 5ဖိုင်
-•🇸🇬𝐒𝐆 𝐅𝐫𝐞𝐞15 ဖိုင်
-•🇺🇲𝐔𝐒 𝐅𝐫𝐞𝐞 15ဖိုင်
+•🇸🇬𝐒𝐆 𝐅𝐫𝐞𝐞10 ဖိုင်
+•🇺🇲𝐔𝐒 𝐅𝐫𝐞𝐞 10ဖိုင်
 •🇯🇵𝐉𝐏 𝐅𝐫𝐞𝐞 5ဖိုင်
 •𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯💯 𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n•💔အပြုံးတစ်ပွင့်ကြောင့် ကြွေခဲ့တဲ့အသည်း💔",
    "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 𝐕𝐢𝐩💌" ,
-   "version": 3
+   "version": 2
 }
