@@ -1,97 +1,6 @@
 {
    "files": [    
 
-
-{
-         "name": "IN-FREE-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/IN-FREE-001.ovpn"
-      },
-
-
-{
-         "name": "IN-FREE-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/IN-FREE-001.ovpn"
-      },
-{
-         "name": "HK-FREE-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-01.ovpn"
-      },
-
-{
-         "name": "HK-FREE-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-02.ovpn"
-      },
-
-{
-         "name": "HK-FREE-003",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-03.ovpn"
-      },
-
-{
-         "name": "HK-FREE-004",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-04.ovpn"
-      },
-
-{
-         "name": "HK-FREE-005",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-05.ovpn"
-      },
-
-{
-         "name": "HK-FREE-006",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-06.ovpn"
-      },
-
-{
-         "name": "HK-FREE-007",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-07.ovpn"
-      },
-
-{
-         "name": "HK-FREE-008",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-08.ovpn"
-      },
-
-{
-         "name": "HK-FREE-009",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/HK-FREE-09.ovpn"
-      },
-
-{
-         "name": "TH-PH-GAME-VIP-001",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/TH-PH-GAME-VIP-1.ovpn"
-      },
-
-{
-         "name": "TH-PH-GAME-VIP-002",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/TH-PH-GAME-VIP-2.ovpn"
-      },
-
-{
-         "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-01.ovpn"
-      },
-
-{
-         "name": "TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-02.ovpn"
-      },
-
-{
-         "name": "TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-03.ovpn"
-      },
-
-{
-         "name": "TH-FREE-004",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-04.ovpn"
-      },
-
-{
-         "name": "TH-FREE-005",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-FREE-05.ovpn"
-      },
-
 {
          "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-001.ovpn"
@@ -148,52 +57,10 @@
       },
 
 {
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-001.ovpn"
+         "name": "TH-VIP-012",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-012.ovpn"
       },
 
-{
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-002.ovpn"
-      },
-
-{
-         "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-003.ovpn"
-      },
-{
-         "name": "SG-FREE-004",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-004.ovpn"
-      },
-
-{
-         "name": "SG-FREE-005",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-FREE-005.ovpn"
-      },
-
-{
-         "name": "SG-FREE-006",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/Noday-006.ovpn"
-      },
-
-{
-         "name": "SG-FREE-007",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/Noday-007.ovpn"
-      },
-
-{
-         "name": "SG-FREE-008",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/Noday-008.ovpn"
-      },
-{
-         "name": "SG-FREE-009",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/Noday-009.ovpn"
-      },
-
-{
-         "name": "SG-FREE-010",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/Noday-010.ovpn"
-      },
 
 {
          "name": "US-AdsOnly-FREE-001",
@@ -217,43 +84,16 @@
 {
          "name": "US-AdsOnly-FREE-005",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-005.ovpn"
-      },
-
-{
-         "name": "US-AdsOnly-FREE-006",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/US-006.ovpn"
-      },
-
-{
-         "name": "US-AdsOnly-FREE-007",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/US-007.ovpn"
-      },
-
-{
-         "name": "US-AdsOnly-FREE-008",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/US-008.ovpn"
-      },
-{
-         "name": "US-AdsOnly-FREE-009",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/US-009.ovpn"
-      },
-
-{
-         "name": "US-AdsOnly-FREE-010",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/US-010.ovpn"
       }
 
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:17\n•🇹🇭𝐓𝐇 𝐅𝐫𝐞𝐞 5ဖိုင်
-•🇭🇰𝐇𝐊 𝐅𝐫𝐞𝐞 9 ဖိုင်
-•🇮🇳𝐈𝐍 𝐅𝐫𝐞𝐞 2 ဖိုင်
-•🇸🇬𝐒𝐆 𝐅𝐫𝐞𝐞 10ဖိုင်
-•🇺🇲𝐔𝐒 𝐅𝐫𝐞𝐞 10ဖိုင်
-•🇹🇭𝐓𝐇 𝐕𝐈𝐏 11 ဖိုင်🎄🎄🎄
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:18\n•
+•🇺🇲𝐔𝐒 𝐅𝐫𝐞𝐞 5ဖိုင်
+•🇹🇭𝐓𝐇 𝐕𝐈𝐏 12 ဖိုင်🎄🎄🎄
 ဖိုင်အားလုံး ipအသစ်ပြန်လဲထားသည်🎯🥰
 ဂိမ်းသမားတွေ🇹🇭THဖိုင်ရွေးချိတ်ပါ
 •𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯🎯🎯 𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n•💔အပြုံးတစ်ပွင့်ကြောင့် ကြွေခဲ့တဲ့အသည်း💔",
    "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 𝐕𝐢𝐩💌" ,
-   "version": 17
+   "version": 18
 }
